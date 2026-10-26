@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Logo Quiosque Paraíso Itanhaém">
+  <defs>
+    <radialGradient id="qpBg" cx="38%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#4AE818"/>
+      <stop offset="65%" stop-color="#2FC408"/>
+      <stop offset="100%" stop-color="#1E9600"/>
+    </radialGradient>
+    <path id="curveTop" d="M 30,118 A 88,88 0 0,1 168,38"/>
+  </defs>
+  <!-- Outer badge -->
+  <circle cx="120" cy="120" r="114" fill="url(#qpBg)" stroke="#111811" stroke-width="5"/>
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#111811" stroke-width="1.8" stroke-dasharray="4 3" opacity="0.55"/>
+
+  <!-- Sun & rays -->
+  <g stroke="#111811" stroke-width="2.6" stroke-linecap="round">
+    <line x1="112" y1="68" x2="112" y2="52"/>
+    <line x1="92" y1="73" x2="82" y2="60"/>
+    <line x1="76" y1="86" x2="62" y2="78"/>
+    <line x1="132" y1="73" x2="142" y2="60"/>
+    <line x1="146" y1="86" x2="158" y2="78"/>
+  </g>
+  <path d="M 76,120 A 36,36 0 0,1 148,120 Z" fill="#111811"/>
+
+  <!-- Seagulls -->
+  <path d="M 60,96 Q 66,90 72,96 Q 78,90 84,96" fill="none" stroke="#111811" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 84,82 Q 88,78 92,82 Q 96,78 100,82" fill="none" stroke="#111811" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Palm tree on right -->
+  <path d="M 160,136 Q 170,104 156,68 Q 164,102 152,136 Z" fill="#111811"/>
+  <!-- Fronds -->
+  <path d="M 156,68 Q 130,58 116,72 Q 136,68 156,72 Z" fill="#111811"/>
+  <path d="M 156,68 Q 134,44 118,48 Q 138,52 156,68 Z" fill="#111811"/>
+  <path d="M 156,68 Q 160,42 182,44 Q 168,52 158,68 Z" fill="#111811"/>
+  <path d="M 156,68 Q 182,52 200,66 Q 178,62 158,70 Z" fill="#111811"/>
+  <path d="M 156,68 Q 184,68 196,86 Q 176,76 156,72 Z" fill="#111811"/>
+
+  <!-- Waves & sandbar -->
+  <path d="M 38,124 Q 65,116 92,124 T 146,124 L 146,131 L 38,131 Z" fill="#111811"/>
+  <path d="M 46,136 Q 82,129 124,136 Q 162,131 196,140 L 190,146 L 50,146 Z" fill="#111811"/>
+
+  <!-- Curved "Quiosque" -->
+  <text fill="#111811" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" font-style="italic" letter-spacing="1">
+    <textPath href="#curveTop" startOffset="14%">Quiosque</textPath>
+  </text>
+
+  <!-- Main "PARAÍSO" banner -->
+  <text x="120" y="176" text-anchor="middle" fill="#111811" font-family="'Arial Black', Impact, sans-serif" font-size="33" font-weight="900" font-style="italic" letter-spacing="1.2">PARAÍSO</text>
+
+  <!-- Bottom "ITANHAÉM - SP" -->
+  <line x1="66" y1="186" x2="174" y2="186" stroke="#111811" stroke-width="2"/>
+  <text x="120" y="203" text-anchor="middle" fill="#111811" font-family="Arial, sans-serif" font-size="12.5" font-weight="800" letter-spacing="1.8">ITANHAÉM - SP</text>
+</svg>

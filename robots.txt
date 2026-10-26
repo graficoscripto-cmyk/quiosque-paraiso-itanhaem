@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quiosque-paraiso-itanhaem.vercel.app/sitemap.xml
