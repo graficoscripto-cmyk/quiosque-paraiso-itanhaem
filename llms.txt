@@ -1,6 +1,6 @@
 # Quiosque Paraíso — Praia do Tupy / Cibratel, Itanhaém-SP
 
-> Quiosque pé na areia na Praia do Tupy (região Cibratel), em Itanhaém, Litoral Sul de São Paulo. Porções, almoço, petiscos, salgados, cerveja gelada, drinks, guarda-sóis e mesas na areia sem consumação mínima, além de música ao vivo e roda de samba aos domingos.
+> Quiosque pé na areia na Praia do Tupy (região Cibratel), em Itanhaém, Litoral Sul de São Paulo. Porções, almoço, cerveja e drinks, guarda-sóis e mesas na areia sem consumação mínima e roda de samba aos domingos.
 
 ## Dados oficiais (NAP)
 - **Nome:** Quiosque Paraíso (Quiosque Paraiso no Google Maps)
@@ -11,18 +11,17 @@
 - **Coordenadas GPS:** -24.2157341, -46.8426444
 - **Telefone / WhatsApp:** +55 (13) 97407-6921 (`https://wa.me/5513974076921`)
 - **Instagram:** https://www.instagram.com/quiosqueparaiso/ (`@quiosqueparaiso`)
-- **Google Maps:** https://www.google.com/maps?cid=17374656645996244060 (4,6 estrelas com 918 avaliações)
+- **Google Maps:** https://www.google.com/maps?cid=17374656645996244060 (4,6 estrelas com 914 avaliações)
 - **Site:** https://quiosque-paraiso-itanhaem.vercel.app/
 
 ## O que o Quiosque Paraíso oferece
-- **Porções, petiscos e almoço:** Porções de praia (peixe, camarão, fritas, calabresa), pastéis, salgados e pratos de almoço servidos no quiosque ou na areia.
-- **Cerveja gelada e drinks:** Cervejas trincando, combos na mesa, caipirinhas, batidas, cocos gelados, refrigerantes e sucos.
-- **Estrutura pé na areia sem consumação mínima:** Guarda-sóis personalizados, mesas e cadeiras na areia da Praia do Tupy, além de salão coberto com telhado de cerâmica, mesa de sinuca e banheiros limpos.
-- **Música ao vivo e Samba aos domingos:** Apresentações de música ao vivo no deck e tradicional roda de samba aos domingos.
-- **Acessibilidade:** Entrada, banheiro e estacionamento acessíveis para cadeirantes.
+- Guarda-sóis e mesas na areia da Praia do Tupy, sem consumação mínima.
+- Porções, almoço, cerveja e drinks (cardápio e preços: consultar pelo WhatsApp).
+- Roda de samba aos domingos.
+- Acessibilidade: entrada, banheiro e estacionamento acessíveis para cadeirantes (segundo o Google Maps).
 
-## Horário de atendimento
-- **Segunda a sexta:** 09:00 às 18:00 (no Instagram consta abertura a partir das 08:00)
+## Horário de atendimento (Google Maps)
+- **Segunda a sexta:** 09:00 às 18:00
 - **Sábado e domingo:** 08:00 às 19:00
 
 ## Como reservar ou tirar dúvidas
